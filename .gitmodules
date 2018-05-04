@@ -1,0 +1,6 @@
+[submodule "IO"]
+	path = IO
+	url = https://github.com/leoguignard/IO
+[submodule "Klab-BlockMatching"]
+	path = Klab-BlockMatching
+	url = https://gitlab.inria.fr/greg/Klab-BlockMatching
